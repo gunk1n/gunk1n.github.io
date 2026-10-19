@@ -1,8 +1,5 @@
 ## Hi! 👋
-
-**I'm Dima Gunkin (aka gunk1n). **
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](Github)
+**I'm Dima Gunkin (aka gunk1n).**
 
 ## Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
